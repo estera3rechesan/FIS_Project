@@ -1,0 +1,137 @@
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe.config
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.pdb
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.AssemblyReference.cache
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Properties.Resources.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.GenerateResource.cache
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.CoreCompileInputs.cache
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.exe
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.pdb
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignIn.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignUp.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPage.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPageNegotiable.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeCustomer.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe.config
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.pdb
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.AssemblyReference.cache
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeAdmin.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeCustomer.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeSeller.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPage.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPageNegotiable.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignIn.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignUp.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Properties.Resources.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.GenerateResource.cache
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.CoreCompileInputs.cache
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.exe
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.pdb
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.AddProduct.resources
+D:\TEME_FACULTATE\anul 2\sem ii\fis\proiect\OnlineShop\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SalesHistory.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe.config
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.pdb
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.AssemblyReference.cache
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.AddProduct.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeAdmin.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeCustomer.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeSeller.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPage.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPageNegotiable.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SalesHistory.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignIn.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignUp.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Properties.Resources.resources
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.GenerateResource.cache
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.CoreCompileInputs.cache
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.exe
+C:\Documente\Facultate an 2 sem 2\Lab IS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.pdb
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe.config
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.pdb
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.AssemblyReference.cache
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.AddProduct.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeAdmin.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeCustomer.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeSeller.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPage.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SalesHistory.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignIn.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignUp.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Properties.Resources.resources
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.GenerateResource.cache
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.CoreCompileInputs.cache
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.exe
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.pdb
+C:\Documente\Facultate an 2 sem 2\Lab FIS\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Offers.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe.config
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.pdb
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.AssemblyReference.cache
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.AddProduct.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeAdmin.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeCustomer.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeSeller.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Offers.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPage.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SalesHistory.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignIn.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignUp.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Properties.Resources.resources
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.GenerateResource.cache
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.CoreCompileInputs.cache
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.exe
+C:\Users\win 11\Desktop\Lorena\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.pdb
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe.config
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.pdb
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.AssemblyReference.cache
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.AddProduct.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeAdmin.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeCustomer.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeSeller.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Offers.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPage.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SalesHistory.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignIn.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignUp.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Properties.Resources.resources
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.GenerateResource.cache
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.CoreCompileInputs.cache
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.exe
+C:\Users\win 11\Desktop\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.pdb
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe.config
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.exe
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\MagazinOnlineUI.pdb
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.AssemblyReference.cache
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.AddProduct.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeAdmin.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeCustomer.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.HomeSeller.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Offers.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.ProductPage.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SalesHistory.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignIn.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.SignUp.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.Properties.Resources.resources
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.GenerateResource.cache
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.csproj.CoreCompileInputs.cache
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.exe
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinOnlineUI.pdb
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\NUnit3.TestAdapter.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\nunit.engine.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\nunit.engine.api.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\nunit.engine.core.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\testcentric.engine.metadata.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\nunit.framework.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\nunit.framework.xml
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\obj\Debug\MagazinO.53CE41A7.Up2Date
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\nunit.framework.legacy.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\nunit.framework.legacy.xml
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\Anul 2 Semestrul 2\FIS\Aplicatie FIS\Aplicatie FIS\MagazinOnlineUI\MagazinOnlineUI\MagazinOnlineUI\bin\Debug\System.Threading.Tasks.Extensions.xml
